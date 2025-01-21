@@ -1,4 +1,4 @@
-Module 15 Challenge | Earthquake Visualization
+Module 15 Challenge 
 
 ![Logo](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/1-Logo.png)
 
@@ -48,4 +48,4 @@ PART 2: Gather and Plot More Data
 
 ![Image](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/earthquakeandplates.png)
 
-Support Received: XpertLearning, GitHub, StackOverflow
+Support Received: Xpert Learning, GitHub, StackOverflow, Leaflet Documentation
