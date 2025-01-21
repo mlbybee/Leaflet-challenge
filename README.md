@@ -16,8 +16,6 @@ Programming and Concepts Used:
 * HTML
 * CSS
 
-Deployment Link: [LINK] (https://mlbybee.github.io/Leaflet-challenge/index.html)
-
 PART 1: Create the Earthquake Visualization
 1) Get your dataset
 * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
