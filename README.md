@@ -21,7 +21,7 @@ Deployment Link:
 PART 1: Create the Earthquake Visualization
 1) Get your dataset
 * The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the Visit the [USGS GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) page and choose a dataset to visualize.
-![Data](3-Data.png)
+![Data](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/3-Data.png)
 
 * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization.
 ![JSON](4-JSON.png)
