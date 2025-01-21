@@ -24,7 +24,7 @@ PART 1: Create the Earthquake Visualization
 ![Data](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/3-Data.png)
 
 * When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization.
-![JSON](4-JSON.png)
+![JSON](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/4-JSON.png)
 
 2) Import and visualize the data:
 Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
