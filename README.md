@@ -16,7 +16,7 @@ Programming and Concepts Used:
 * HTML
 * CSS
 
-Deployment Link: [LINK] (https://mlbybee.github.io/Leaflet-Challenge/index.html)
+Deployment Link: [LINK] (https://mlbybee.github.io/Leaflet-challenge/index.html)
 
 PART 1: Create the Earthquake Visualization
 1) Get your dataset
