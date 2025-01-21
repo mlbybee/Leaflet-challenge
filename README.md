@@ -35,7 +35,7 @@ Using Leaflet, create a map that plots all the earthquakes from your dataset bas
 Hint: The depth of the earth can be found as the third coordinate for each earthquake.
 
 * Include popups that provide additional information about the earthquake when its associated marker is clicked.
-![Image](PopUp.png)
+![Image](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/PopUp.png)
 
 * Create a legend that will provide context for your map data.
 
