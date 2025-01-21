@@ -48,6 +48,6 @@ PART 2: Gather and Plot More Data
 * Add other base maps to choose from.
 * Put each dataset into separate overlays that can be turned on and off independently
 
-![Image](earthquakeandplates.png)
+![Image](https://github.com/mlbybee/Leaflet-challenge/blob/main/Images/earthquakeandplates.png)
 
 Support Received: XpertLearning, GitHub, StackOverflow
